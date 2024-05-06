@@ -34,7 +34,7 @@
       "institution": "Washington University in St. Louis",
       "location": "Missouri, USA",
       "url": "https://www.wustl.edu/",
-      "department": "McKelvey School of Engineering",
+      "area": "McKelvey School of Engineering",
       "studyType": "PhD",
       "startDate": "2019-08-29",
       "endDate": "2025-05-01",
@@ -43,7 +43,7 @@
       "institution": "University of California, Berkeley",
       "location": "California, USA",
       "url": "https://www.berkeley.edu/",
-      "department": "Simon's Institute for the Theory of Computing",
+      "area": "Simon's Institute for the Theory of Computing",
       "studyType": "Visiting Scholar",
       "startDate": "2022-08-29",
       "endDate": "2023-05-01"
@@ -52,7 +52,7 @@
       "institution": "Washington University in St. Louis",
       "location": "Missouri, USA",
       "url": "https://www.wustl.edu/",
-      "department": "McKelvey School of Engineering",
+      "area": "McKelvey School of Engineering",
       "studyType": "Master",
       "startDate": "2016-08-29",
       "endDate": "2018-12-15"
@@ -61,7 +61,7 @@
       "institution": "Beijing Jiaotong University",
       "location": "Beijing, China",
       "url": "https://www.bjtu.edu.cn/",
-      "department": "School of Electronic And Information Engineering",
+      "area": "School of Electronic And Information Engineering",
       "studyType": "Bachelor",
       "startDate": "2011-08-29",
       "endDate": "2015-07-01"
@@ -71,15 +71,8 @@
     {
       "name": "Distribution-Specific Auditing For Subgroup Fairness",
       "publisher": "SYMPOSIUM ON THE FOUNDATIONS OF RESPONSIBLE COMPUTING",
-      "year": "2024",
+      "releaseDate": "2024",
       "url": ""
-    }
-  ],
-  "workshops":[
-    {
-      "name": "NSF Fairness in AI Meeting",
-      "host": "Amazon HQ2",
-      "date": "2024-01-10"
     }
   ],
   "skills": [
