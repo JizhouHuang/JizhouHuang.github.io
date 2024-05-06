@@ -67,15 +67,6 @@
       "endDate": "2015-07-01"
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
   "publications": [
     {
       "name": "Distribution-Specific Auditing For Subgroup Fairness",
@@ -84,6 +75,13 @@
       "url": ""
     }
   ],
+  "workshops":[
+    {
+      "name": "NSF Fairness in AI Meeting",
+      "host": "Amazon HQ2",
+      "date": "2024-01-10"
+    }
+  ]
   "skills": [
     {
       "name": "Programming Language",
