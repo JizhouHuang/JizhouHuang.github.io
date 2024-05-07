@@ -13,16 +13,24 @@
   contents:
     - title: PhD in Computer Science
       institution: Washington University in St. Louis, Missouri, USA
-      year: 2019.08
+      year: 2019 - now
+      description:
+        - McKelvey School of Engineering
     - title: Visiting Student
       institution: University of California, Berkeley, California, USA
-      year: 2022.08 - 2023.05
-    - title: Master in Electrical Engineering & Computer Science
+      year: 2022 - 2023
+      description:
+        - Simon's Institute for the Theory of Computing
+    - title: Master of Science
       institution: Washington University in St. Louis, Missouri, USA
-      year: 2016.08 - 2018.12
-    - title: Bachelar in Automation
+      year: 2016 - 2018
+      description:
+        - McKelvey School of Engineering
+    - title: Bachelar of Engineering
       institution: Beijing Jiaotong University, Beijing, China
-      year: 2011.09 - 2015.07
+      year: 2011 - 2015
+      description:
+        - School of Electronic And Information Engineering
     
 
 - title: Experience
