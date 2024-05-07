@@ -6,7 +6,7 @@ subtitle: <a href='https://wustl.edu/'>Washington University in St. Louis</a>.
 
 profile:
   align: right
-  image: jizhou_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>McKelvey Hall 2010</p>
