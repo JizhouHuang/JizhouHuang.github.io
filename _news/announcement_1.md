@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper "Distribution-Specific Auditing For Subgroup Fairness" has been accepted by FORC 2024.
