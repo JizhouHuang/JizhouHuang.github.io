@@ -36,13 +36,13 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Machine Learning Engineer Intern
+    - title: Software Engineer Intern
       institution: Meta
       year: 2023.05 - 2023.08
       description:
         - Built a trigger net retrieval model to enhance Facebook Reels recommendations, facilitating user engagement with items by analyzing their previously engaged items.
-    - title: Machine Learning Engineer Intern
+    - title: Software Engineer Intern
       institution: Meta
       year: 2022.05 - 2022.08
       description:
-        - Worked on building new deep learning models to capture different human interests at retrieval stage for Facebook reels recommendation.
+        - Worked on building two-tower network models to capture different human interests at retrieval stage for Facebook reels recommendation.
