@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 Hey, welcome to my corner of the web! I'm a fifth-year PhD student in the Computer Science & Engineering department at Wash U's McKelvey School of Engineering, fortunate to be mentored by Professor <a href='https://www.cse.wustl.edu/~bjuba/'>Brendan Juba</a>.
 
-My research revolves around the domains of learning theory and approximation algorithms. Specifically, I'm interested in developing theoretically fast approximation algorithms for computationally hard problems, such as fairness auditing, conditional learning, and agnostic learning, with provable guarantees. 
+My research revolves around the domains of theoretical computer science, complexity, and approximation algorithms. Specifically, I'm interested in developing theoretically fast approximation algorithms for computationally hard problems, such as fairness auditing, conditional classification, and agnostic linear classification, with provable guarantees. 
 
 Stick around to learn more about my work and interests!
