@@ -36,6 +36,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scietist
+      institution: Meta
+      year: 2025.06 - now
+      # description:
+      #   - Working on large language models and their applications.
     - title: Software Engineer Intern
       institution: Meta
       year: 2023.05 - 2023.08
