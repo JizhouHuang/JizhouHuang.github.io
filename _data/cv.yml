@@ -3,51 +3,42 @@
   contents:
     - name: Full Name
       value: Jizhou Huang
-    # - name: Date of Birth
-    #   value: 14th March 1879
     - name: Languages
       value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science
+    - title: Ph.D. in Computer Science
       institution: Washington University in St. Louis, Missouri, USA
       year: 2019 - 2025
       description:
         - McKelvey School of Engineering
-    - title: Visiting Student
+    - title: Visiting Scholar
       institution: University of California, Berkeley, California, USA
       year: 2022 - 2023
       description:
         - Simon's Institute for the Theory of Computing
-    - title: Master of Science
+    - title: M.S. in Electrical Engineering & Computer Science
       institution: Washington University in St. Louis, Missouri, USA
       year: 2016 - 2018
       description:
         - McKelvey School of Engineering
-    - title: Bachelar of Engineering
+    - title: B.E. in Automation
       institution: Beijing Jiaotong University, Beijing, China
       year: 2011 - 2015
       description:
         - School of Electronic And Information Engineering
-    
 
 - title: Experience
   type: time_table
   contents:
-    - title: Research Scietist
+    - title: Software Development Engineer
       institution: Meta
-      year: 2025.06 - now
-      # description:
-      #   - Working on large language models and their applications.
-    - title: Software Engineer Intern
+      year: 2025.06 - Present
+    - title: Machine Learning Engineer Intern
       institution: Meta
       year: 2023.05 - 2023.08
-      # description:
-        # - Built a trigger net retrieval model to enhance Facebook Reels recommendations, facilitating user engagement with items by analyzing their previously engaged items.
-    - title: Software Engineer Intern
+    - title: Machine Learning Engineer Intern
       institution: Meta
       year: 2022.05 - 2022.08
-      # description:
-      #   - Worked on building two-tower network models to capture different human interests at retrieval stage for Facebook reels recommendation.
